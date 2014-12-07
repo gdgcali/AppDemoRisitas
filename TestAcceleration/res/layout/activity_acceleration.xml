@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txvCoordenadas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Coordenadas" />
+
+    <TextView
+        android:id="@+id/txvTituloX"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="X" />
+
+    <TextView
+        android:id="@+id/txvX"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="[X]"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/txvTituloY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="y" />
+
+    <TextView
+        android:id="@+id/txvY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="[Y]"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <TextView
+        android:id="@+id/txvTituloZ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="z" />
+
+    <TextView
+        android:id="@+id/txvZ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="[Z]"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</LinearLayout>

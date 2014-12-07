@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+D:\Jnn\Workspace\ws_Android\ws_Risitas\.metadata\.plugins\org.eclipse.jdt.core
+2397057678.index
+3317015487.index
+3653693052.index
+237783298.index
+3247003418.index
